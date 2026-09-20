@@ -1,0 +1,1 @@
+{"name":"yibo-profile","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","check":"node scripts/check.mjs","serve":"python3 -m http.server 4173 --directory dist"},"dependencies":{"marked":"^16.0.0","qrcode":"^1.5.4"}}
